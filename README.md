@@ -62,4 +62,4 @@ streamlit run app.py
 ## Developed By
 
 Parvinder Singh Dhull
-Niral Saxena
+SNiral Saxena
