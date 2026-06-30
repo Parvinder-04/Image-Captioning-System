@@ -1,0 +1,5 @@
+Flickr8k Dataset Images:
+https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
+
+Flickr8k Captions:
+https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
